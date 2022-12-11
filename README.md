@@ -1,4 +1,4 @@
-![Text](https://github.com/SidDHarTh12113/Assignment_Chefkart/blob/main/Screenshot%20from%202022-12-11%2021-15-05.png)
+<a href="https://ibb.co/jJNGWQt"><img src="https://i.ibb.co/2Z9PsCJ/Screenshot-from-2022-12-11-21-15-05.jpg" alt="Screenshot-from-2022-12-11-21-15-05" border="0"></a>
 
 # Getting Started with Create React App
 
