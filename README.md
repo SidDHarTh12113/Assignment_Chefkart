@@ -1,3 +1,5 @@
+![Text](https://github.com/SidDHarTh12113/Assignment_Chefkart/blob/main/Screenshot%20from%202022-12-11%2021-15-05.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
